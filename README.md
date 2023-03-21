@@ -35,4 +35,10 @@
   </thead>
 </table>
 
+#### 🔥🔥🔥 : Github Readme Strak Status
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chorongs&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 </div>
