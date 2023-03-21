@@ -1,33 +1,25 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=chorongs&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-### Hello World!
+<div align="center"> 
 
-<p>
-  <a href="https://github.com/chorongs"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyujleee&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-  <a href="mailto:charmblues@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&amp;logo=Gmail&amp;logoColor=white" alt="메일 보내기"/></a>
-  <a href="https://maengjun.tistory.com/"><img height="20px" src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=%7Bdefault%7D" alt="Tistory&#39;s Badge"></a>
+![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=chorongs&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+  
+####  :wave: Welcome my github profile !
 
-* 😎 I'm MyeongJun Kim.
-* 💻 Studying to be a back-end.
-</p>
-
-
-<br/>
-<br/>
-
-<table>
-  <thead>
-    <tr>
-      <th>
-          <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chorongs&layout=compact&hide_border=true" />
-        </a>
-      </th>
-      <th>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=chorongs&theme=buefy&show_icons=true&hide_border=true" />
-        </a>
-      </th>
-    </tr>
-  </thead>
-</table>
-
+  
+ <br/>
+ <br/>
+  
+####  :clipboard: Once I've Used 
+  
+ <br/>
+  
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
+ 
+   <br/>
+   <br/>
+ 
+</div>
