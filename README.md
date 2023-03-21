@@ -21,6 +21,8 @@
   <br/>
  
   #### :pencil2: Study log
+  <br/>
+  <br/>
 
 <table>
   <thead>
