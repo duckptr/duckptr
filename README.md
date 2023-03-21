@@ -29,7 +29,7 @@
         </a>
       </th>
       <th>
-<a href="https://github.com/chorongs"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chorongs8&layout=compact&theme=nord&hide_border=true" /></a>
+<a href="https://github.com/chorongs"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chorongs&layout=compact&theme=nord&hide_border=true" /></a>
       </th>
     </tr>
   </thead>
