@@ -1,6 +1,6 @@
 <div align="center"> 
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=072d66&height=280&section=header&text=MyeongJun&fontColor=f0f2f5&fontSize=80&animation=fadeIn&fontAlignY=30)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&color=072d66&height=280&section=header&text=MyeongJun Kim &fontColor=f0f2f5&fontSize=80&animation=fadeIn&fontAlignY=30)
   
 ####  :wave: Welcome my github profile !
 
