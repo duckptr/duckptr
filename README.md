@@ -19,14 +19,12 @@
   <thead>
     <tr>
       <th>
-          <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chorongs&layout=compact&hide_border=true" />
-        </a>
-      </th>
-      <th>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=chorongs&theme=buefy&show_icons=true&hide_border=true" />
-        </a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
       </th>
     </tr>
   </thead>
