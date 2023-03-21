@@ -8,7 +8,6 @@
 
 * 😎 I'm MyeongJun Kim.
 * 💻 Studying to be a back-end.
-
 </p>
 
 
@@ -19,13 +18,14 @@
   <thead>
     <tr>
       <th>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-        <img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujleee&layout=compact&hide_border=true" />
+        </a>
+      </th>
+      <th>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=yujleee&theme=buefy&show_icons=true&hide_border=true" />
+        </a>
       </th>
     </tr>
   </thead>
