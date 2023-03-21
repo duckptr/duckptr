@@ -35,9 +35,11 @@
     </tr>
   </thead>
 </table>
+<br/>
+<br/>
 
 #### 🔥🔥🔥 : Github Readme Strak Status
-<br/>
+
 <br/>
 <br/>
 
