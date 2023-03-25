@@ -20,7 +20,7 @@
    <br/>
   <br/>
  
-  #### :pencil2: Study log
+  #### :pencil2: Study log!!
   <br/>
   <br/>
 
