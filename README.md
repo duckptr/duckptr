@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=00040a&height=280&section=header&text=MyeongJun&fontColor=f0f2f5&fontSize=80&animation=fadeIn&fontAlignY=30)
   
-####  :wave: Welcome my github profile !
+####  :wave: Hello!
 
   
  <br/>
