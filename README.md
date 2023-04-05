@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=00040a&height=280&section=header&text=MyeongJun&fontColor=f0f2f5&fontSize=80&animation=fadeIn&fontAlignY=30)
   
-####  :wave: Hello!
+####  :wave: Hello! I'm preparing to become a back-end developer.
 
   
  <br/>
@@ -20,7 +20,7 @@
    <br/>
   <br/>
  
-  #### :pencil2: Study log!!
+  #### :pencil2: Study log!
   <br/>
   <br/>
 
