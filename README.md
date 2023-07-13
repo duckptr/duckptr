@@ -43,7 +43,6 @@
 #### 🔥🔥🔥 : Github Readme Strak Status
 
 <br/>
-<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chorongs&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
