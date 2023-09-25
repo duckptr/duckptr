@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=00040a&height=280&section=header&text=MyeongJun&fontColor=f0f2f5&fontSize=80&animation=fadeIn&fontAlignY=30)
   
-####  :wave: 백엔드 개발자가 되고싶다ㅏㅏㅏ
+####  :wave: 백엔드 공부중
 
   
  <br/>
