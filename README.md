@@ -1,5 +1,5 @@
 <h1>
-    <sup><sup>Backend</sup> <sub>Developer</sub></sup> <sub><sub>김명준 :)</sub></sub>
+    <sup><sup>Backend Developer</sup> </sup> <sub><sub>김명준</sub></sub>
 </h1>
 
 <p align="left">
