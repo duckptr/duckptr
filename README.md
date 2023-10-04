@@ -10,7 +10,7 @@
 
 <br/>
 
-<details>
+<details open>
 
 <summary>&nbsp;<b>교육과정</b></summary>
 <br />
