@@ -22,7 +22,7 @@
 
 <br/>
 
-<details>
+<details open>
 
 <summary>&nbsp;<b>프로젝트</b></summary>
 <br />
