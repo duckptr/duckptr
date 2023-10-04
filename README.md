@@ -27,7 +27,7 @@
 <summary>&nbsp;<b>프로젝트</b></summary>
 <br />
 
-<b>팀 프로젝트</b>
+> <b>팀 프로젝트</b>
 
 <li><a href="https://github.com/chorongs/B_8group">Vinabro</a> <sub>(2022.11)</sub></li>
 <li><a href="https://github.com/dwg787/6candoit">6candoit</a> <sub>(2022.12.22 ~ 2022.12.27)</sub></li>
@@ -38,7 +38,7 @@
 
 <br />
 
-<b>개인 프로젝트</b>
+> <b>개인 프로젝트</b>
 
 <li><a href="https://github.com/chorongs/sun-goseong">sun-goseong</a> <sub>(2023.02 ~ 04)</sub></li>
 
