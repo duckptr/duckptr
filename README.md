@@ -40,7 +40,7 @@
 
 > <b>개인 프로젝트</b>
 
-<li><a href="https://github.com/chorongs/sun-goseong">sun-goseong</a> <sub>(2023.02 ~ 04)</sub></li>
+<li><a href="https://github.com/chorongs/sun-goseong">sun-goseong</a> <sub>(2023.02 ~ 03)</sub></li>
 
 
 </details>
