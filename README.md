@@ -12,7 +12,7 @@
 
 <details open>
 
-<summary>&nbsp;<b>교육과정</b></summary>
+<summary>&nbsp;<b>교육</b></summary>
 <br />
 
 <li> 내일배움캠프 프론트엔드 <sub>(2022.10 ~ 2023.03)</sub></li>
