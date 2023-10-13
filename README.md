@@ -29,7 +29,6 @@
 
 > <b>팀 프로젝트</b>
 
-<li><a href="https://github.com/chorongs/B_8group">Vinabro</a> <sub>(2022.11)</sub></li>
 <li><a href="https://github.com/dwg787/6candoit">6candoit</a> <sub>(2022.12.22 ~ 2022.12.27)</sub></li>
 <li><a href="https://github.com/yujleee/intermission">Intermission</a> <sub>(2023.01.06 ~ 2023.01.13)
 </sub></li>
