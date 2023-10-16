@@ -31,7 +31,7 @@
 
 <li><a href="https://github.com/dwg787/6candoit">6candoit</a> <sub>(2022.12)</sub></li>
 <li><a href="https://github.com/yujleee/intermission">Intermission</a> <sub>(2023.01)
-<li><a href="https://github.com/leesoonjae/weather">도란도란</a> <sub>(2023.10.16~)
+<li><a href="https://github.com/leesoonjae/weather">도란도란</a> <sub>(2023.10 ~ )
 </sub></li>
 
 
