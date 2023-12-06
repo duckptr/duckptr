@@ -2,13 +2,11 @@
     <sup><sup>Backend Developer</sup> </sup>
 </h1>
 
-<p align="left">
-    <a href="https://maengjun.tistory.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory" />
-    </a>
-</p>
+
 
 <br/>
+<br />
+
 
 <br />
 <table>
