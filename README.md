@@ -1,24 +1,4 @@
-<h1>
-    <sup><sup>Backend Developer</sup> </sup>
-</h1>
+- 안녕하세요. 백엔드 개발자가 되기 위해서 공부하고 있는 김명준입니다.
+- 저는 자바를 공부하고 있습니다.
 
-
-
-<br/>
-<br />
-
-
-<br />
-<table>
-  <thead>
-    <tr>
-      <th>
-          <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chorongs&layout=compact&hide_border=true" />
-        </a>
-      </th>
-
-
-  </thead>
-</table>
 
