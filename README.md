@@ -1,2 +1,2 @@
-- I’m currently learning Spring, Typescript ☠️
+- I’m currently learning Java, Typescript ☠️
 
