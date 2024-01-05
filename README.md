@@ -1,5 +1,3 @@
-<h1 font-color="#6e34eb" align="center"> MyeongJun Kim </h1>
-
-<br />
-
+# 김명준 (MyeongJun Kim)
 - 🌵 I'm currently learning ```Java``` , ```TypeScript``` <br>
+- 🏕️ I live in Seoul, Korea <br>
