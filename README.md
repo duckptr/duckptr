@@ -1,6 +1,8 @@
 # 김명준 (MyeongJun Kim)
-- 🌵 I'm currently learning ```C``` <br>
-- 🏕️ I live in Seoul, Korea <br>
+- 🔌 Electrical and Electronic Engineering @ Kangwon National University <br>
+- 🤖 Interested in embedded systems and firmware development <br>
+- 🌵 Currently learning ```C``` <br>
+
 
 <table>
   <thead>
