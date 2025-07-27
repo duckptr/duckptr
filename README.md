@@ -1,7 +1,7 @@
 # 김명준 (MyeongJun Kim)
 - 🔌 Electrical and Electronic Engineering @ Kangwon National University <br>
 - 🤖 Interested in embedded systems and firmware development <br>
-- 🌵 Currently learning ```C``` <br>
+- 🌵 Currently learning ```C, C++, Python``` <br>
 
 
 <table>
