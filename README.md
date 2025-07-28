@@ -1,5 +1,5 @@
 # 김명준 (MyeongJun Kim)
-- 🔌 KNU EE <br>
+- 🎓 KNU EE <br>
 - 🤖 Interested in embedded systems and firmware development <br>
 - 🌵 Currently learning ```C, C++, Python``` <br>
 
