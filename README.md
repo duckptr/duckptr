@@ -1,8 +1,7 @@
 # 김명준 (MyeongJun Kim)
-- 🎓 KNU EE <br>
-- 🤖 Interested in embedded systems and firmware development <br>
-- 🌵 Currently learning ```C, Python``` <br>
-
+- Major: Electrical and Electronic Engineering <br> 
+- Interests: Embedded Systems, TinyML  <br>
+- Languages: C/C++, Python  <br>
 
 <table>
   <thead>
