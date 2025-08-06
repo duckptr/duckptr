@@ -1,7 +1,7 @@
 # 김명준 (MyeongJun Kim)
-- Major: Electrical and Electronic Engineering <br> 
-- Interests: Embedded Systems, TinyML  <br>
-- Languages: C/C++, Python  <br>
+- Major : Electrical and Electronic Engineering, Business Administration<br> 
+- Interests : Embedded Systems, TinyML  <br>
+- Languages : C/C++, Python  <br>
 
 <table>
   <thead>
